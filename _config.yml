@@ -79,6 +79,6 @@ theme: apollo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lbhbrave/yanghuan.github.io.git
+  repo: git@github.com:lbhbrave/lbhbrave.github.io.git
   branch: master
 
